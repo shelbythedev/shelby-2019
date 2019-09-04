@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/shelbythedev/shelby-2019/issues"
   },
-  "homepage": "https://github.com/shelbythedev/shelby-2019#readme"
+  "homepage": "https://github.com/shelbythedev/shelby-2019#readme",
+  "dependencies": {
+    "node-static": "^0.7.11"
+  }
 }
