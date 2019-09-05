@@ -752,6 +752,12 @@ a:hover {
 //--//-->   COUNTER
 ======================================*/
 
+.quote {
+  color: #fff;
+  z-index: 9999;
+  width: 100%;
+}
+
 .counter-box {
   color: #fff;
   text-align: center;
