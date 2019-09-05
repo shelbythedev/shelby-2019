@@ -754,7 +754,7 @@ a:hover {
 
 .quote {
   color: #fff;
-  z-index: 9999;
+  z-index: 99;
   width: 100%;
 }
 
@@ -782,6 +782,15 @@ a:hover {
 /*======================================
 //--//-->   PORTFOLIO
 ======================================*/
+
+.client {
+  max-height: 100px;
+  max-width: 100%;
+}
+
+.client-row div {
+  padding: 50px;
+}
 
 .work-box {
   margin-bottom: 3rem;
