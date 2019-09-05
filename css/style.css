@@ -407,6 +407,10 @@ a:hover {
   padding-bottom: 1.563rem;
 }
 
+.navbar-logo {
+  width:50px;
+}
+
 .navbar-b.navbar-reduce {
   box-shadow: 0px 6px 9px 0px rgba(0, 0, 0, 0.06);
 }
@@ -620,6 +624,11 @@ a:hover {
   height: 100%;
   width: 100%;
   opacity: .9;
+}
+
+.intro .intro-logo {
+  width: 20%;
+  min-width: 150px;
 }
 
 .intro .intro-title {
