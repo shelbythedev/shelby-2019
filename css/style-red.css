@@ -400,6 +400,11 @@ a:hover {
 //--//-->   NAVBAR
 ======================================*/
 
+.navbar-logo {
+  width:50px;
+  margin-right: 20px;
+}
+
 .navbar-b {
   transition: all .5s ease-in-out;
   background-color: transparent;
@@ -622,12 +627,16 @@ a:hover {
   opacity: .9;
 }
 
-.intro .intro-title {
-  color: #fff;
-  font-weight: 600;
-  font-size: 3rem;
+.intro .intro-logo {
+  width: 20%;
+  min-width: 150px;
 }
 
+.intro .intro-title {
+  color: #fff;
+  font-weight: 300;
+  font-size: 3rem;
+}
 .intro .intro-subtitle {
   font-size: 1.5rem;
   font-weight: 300;
